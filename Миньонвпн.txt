@@ -1,6 +1,6 @@
 #profile-title: base64:0JzQuNC90YzQvtC9INCy0L3QvA==
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
+#subscription-userinfo: upload=0; download=0; total=9990000000000000000000000000000000000000000000; expire=4102444799
 #support-url: https://t.me/FINSED
 
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr90.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=fr90.mechvpn.online#миньон%20впн%20🇵🇼%20%D0%B0%D0%B2%D1%82%D0%BE-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80
