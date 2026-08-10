@@ -1,11 +1,10 @@
-# Миньон впн
-# Трафик: 999TB/∞
-# Истекает: 16.01.9999
-# Описание: Лучший Vpn Миньон впн
-# Создатель @FINSED
+#profile-title: base64:0JzQuNC90YzQvtC9INCy0L3QvA==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
+#support-url: https://t.me/FINSED
 
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr90.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=fr90.mechvpn.online#миньон%20впн%20🇵🇼%20%D0%B0%D0%B2%D1%82%D0%BE-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80
-vless://1c6824de-312c-4876-aa3f-5a30e3df2de7@ru211.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru211.mechvpn.online#миньон%20впн%20🇵🇼%20%D0%B4%D0%BB%D1%8F%20Telegram
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru52.mechvpn.online#миньон%20впн%20🇷🇺%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru156.mechvpn.online#миньон%20впн%20🇵🇱%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru211.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru211.mechvpn.online#миньон%20впн%20🇫🇲%20server%20(%D0%B5%D0%BB%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82)
+vless://1c6824de-312c-4876-aa3f-5a30e3df2de7@ru211.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru211.mechvpn.online#миньон%20%D0%B2%D0%BF%D0%BD%20🇵🇼%20%D0%B4%D0%BB%D1%8F%20Telegram
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru52.mechvpn.online#миньон%20%D0%B2%D0%BF%D0%BD%20🇷🇺%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru156.mechvpn.online#миньон%20%D0%B2%D0%BF%D0%BD%20🇵🇱%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru211.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=ru211.mechvpn.online#миньон%20%D0%B2%D0%BF%D0%BD%20🇫🇲%20server%20(%D0%B5%D0%BB%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82)
