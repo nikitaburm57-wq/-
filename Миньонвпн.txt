@@ -1,4 +1,4 @@
-#profile-title: base64:0JzQuNC90YzQvtC9INCy0L3QvA==
+#profile-title: Миньон впн
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=9990000000000000000000000000000000000000000000; expire=4102444799
 #support-url: https://t.me/FINSED
