@@ -2,5 +2,4 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
 #support-url: https://t.me/FINSED
-
 https://dash.keyluno.space/sub/djMsMTAwLDE3ODY1MzIwNTI.3Qo3kuTddob1eGl7tOnHrkIG07UhPH28P0xDco376hk
