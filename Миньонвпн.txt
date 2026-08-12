@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=999000000000000; expire=4102444799
 #support-url: https://t.me/FINSED
 
-https://is.wepogp.gay/bypass-hwid-lock-3z5O6BFAaJQzGlamvtSo?payload=teJa5U1EevPjDrwxP9eAeArtpaVCD9oExsYZPNhmu0V5X02YvaoSzkj%2B0XFqb%2BehYP7alm1UAjMJFfmCuVVbBaqcHQKcft6YIsKkSxQU40w%3
+https://dash.keyluno.space/sub/djMsMTAwLDE3ODY1MzIwNTI.3Qo3kuTddob1eGl7tOnHrkIG07UhPH28P0xDco376hk
